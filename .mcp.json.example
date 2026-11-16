@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stpd": {
+      "command": "node",
+      "args": ["C:/Users/Cestbon/Desktop/Proj/st_preset_workflow/dist/mcp.js"]
+    }
+  }
+}

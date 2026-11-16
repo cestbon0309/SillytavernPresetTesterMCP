@@ -1,0 +1,5 @@
+[
+  {"role": "assistant", "content": "*Seraphina looks up from her herbs.* Oh! You're awake."},
+  {"role": "user", "content": "Where am I?"},
+  {"role": "assistant", "content": "You're in my glade, safe from the shadows."}
+]
